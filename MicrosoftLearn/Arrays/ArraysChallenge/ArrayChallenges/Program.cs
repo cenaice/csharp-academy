@@ -1,9 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-string[] arr = {"B123","C234","A345","C153","B177","G3003","C235","B179"}; 
+﻿// 4 Students, each with 5 exam scores
+// Score is a value from 0-100
+// Overall Exam Score is Average of 5
+// Extra Cred is worth 10% of exam score and goes to students total exam score 
+// Need to assign letter based grading based on score:
 
-foreach (string item in arr) {
-    if (item.StartsWith("B")) {
-        Console.WriteLine($"Item starts with B! {item}");
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int[] vicScores = { 100, 100, 100, 100, 100 };
+        int[] jackScores = { 90, 80, 70, 60, 50 };
+        int[] andyScores = { 80, 93, 85, 77, 62 };
+        int[] eliScores = { 87, 65, 89, 76, 65 };
+        Console.WriteLine(vicScores)
     }
 }
-

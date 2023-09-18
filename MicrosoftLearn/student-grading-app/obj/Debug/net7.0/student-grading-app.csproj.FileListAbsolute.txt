@@ -1,0 +1,14 @@
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\bin\Debug\net7.0\student-grading-app.exe
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\bin\Debug\net7.0\student-grading-app.deps.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\bin\Debug\net7.0\student-grading-app.runtimeconfig.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\bin\Debug\net7.0\student-grading-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\bin\Debug\net7.0\student-grading-app.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.AssemblyInfoInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.AssemblyInfo.cs
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.csproj.CoreCompileInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\refint\student-grading-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\student-grading-app.genruntimeconfig.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\student-grading-app\obj\Debug\net7.0\ref\student-grading-app.dll
