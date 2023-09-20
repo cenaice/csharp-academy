@@ -1,0 +1,14 @@
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.AssemblyInfoInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.AssemblyInfo.cs
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.csproj.CoreCompileInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\bin\Debug\net7.0\LVL6_C#-TypeSystem.exe
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\bin\Debug\net7.0\LVL6_C#-TypeSystem.deps.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\bin\Debug\net7.0\LVL6_C#-TypeSystem.runtimeconfig.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\bin\Debug\net7.0\LVL6_C#-TypeSystem.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\bin\Debug\net7.0\LVL6_C#-TypeSystem.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\refint\LVL6_C#-TypeSystem.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\LVL6_C#-TypeSystem.genruntimeconfig.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\obj\Debug\net7.0\ref\LVL6_C#-TypeSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\bin\Debug\net7.0\fizzbuzz-app.exe
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\bin\Debug\net7.0\fizzbuzz-app.deps.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\bin\Debug\net7.0\fizzbuzz-app.runtimeconfig.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\bin\Debug\net7.0\fizzbuzz-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\bin\Debug\net7.0\fizzbuzz-app.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.AssemblyInfoInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.AssemblyInfo.cs
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.csproj.CoreCompileInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\refint\fizzbuzz-app.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\fizzbuzz-app.genruntimeconfig.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\fizzbuzz-app\obj\Debug\net7.0\ref\fizzbuzz-app.dll

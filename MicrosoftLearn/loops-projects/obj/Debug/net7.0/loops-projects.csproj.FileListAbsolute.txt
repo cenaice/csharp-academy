@@ -1,0 +1,4 @@
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\loops-projects\obj\Debug\net7.0\loops-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\loops-projects\obj\Debug\net7.0\loops-projects.AssemblyInfoInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\loops-projects\obj\Debug\net7.0\loops-projects.AssemblyInfo.cs
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\MicrosoftLearn\loops-projects\obj\Debug\net7.0\loops-projects.csproj.CoreCompileInputs.cache
