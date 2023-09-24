@@ -1,0 +1,14 @@
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.AssemblyInfoInputs.cache
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.AssemblyInfo.cs
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.csproj.CoreCompileInputs.cache
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\bin\Debug\net7.0\enumeration.exe
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\bin\Debug\net7.0\enumeration.deps.json
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\bin\Debug\net7.0\enumeration.runtimeconfig.json
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\bin\Debug\net7.0\enumeration.dll
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\bin\Debug\net7.0\enumeration.pdb
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.dll
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\refint\enumeration.dll
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.pdb
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\enumeration.genruntimeconfig.cache
+C:\Users\pmani\Source\Repos\cenaice\csharp-academy\enumeration\obj\Debug\net7.0\ref\enumeration.dll
