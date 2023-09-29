@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LVL6_C__TypeSystem
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\LVL6_C#-TypeSystem\
+=======
+build_property.ProjectDir = C:\Users\pmani\Source\Repos\cenaice\csharp-academy\LVL6_C#-TypeSystem\
+>>>>>>> b65beabb876450fc3d7e4a0901ce87ede5593ac2

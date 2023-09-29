@@ -1,5 +1,4 @@
 ﻿// --------------------------- Hunting the Manticore --------------------------- //
-
 /* 
 Two Users,
 User 1 first establishes (secretly) how far the Manticore is from 1 to 100
@@ -26,7 +25,7 @@ int roundNumber = 1;
 
 Console.WriteLine("Player 2, it is your turn.");
 
-while (cityHP != 0 || manticoreHP != 0) {
+while (cityHP > 0 || manticoreHP > 0) {
     Console.WriteLine("-------------------------------------");
     // Game On
 
@@ -58,23 +57,7 @@ while (cityHP != 0 || manticoreHP != 0) {
     cityHP -= 1;
 }
 
-
-if (cityHP > manticoreHP) {
-    Console.WriteLine("The Manticore has been destroyed! The city is saved!");
-}
-
-else
-{
-    Console.WriteLine("The city been destroyed bruh. YOU LOST. GAME OVER!");
-}
-
-
-//void string DisplayGameStats(int roundNumber, int manticoreHP, int cityHP,) {
-//    Console.WriteLine($"Status Round: {} City: {}/15 Manticore {}/10");
-    
-//    // Output depends on roundNumber
-//    Console.WriteLine($"The cannon is expected to deal {} damage this round")
-//}
+Console.WriteLine(gameOverMessage(cityHP, manticoreHP));
 
 int turnDamage(int roundNumber) {
     // FizzBuzz approach
@@ -93,3 +76,13 @@ int turnDamage(int roundNumber) {
     }   
 }
 
+string gameOverMessage(int cityHP, int manticoreHP)
+{
+    if (cityHP > manticoreHP)
+    {
+        return "The Manticore has been destroyed! The city is saved!";
+    } else
+    {
+        return "The city been destroyed bruh. YOU LOST. GAME OVER!";
+    }
+}
