@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\LVL6_C#-TypeSystem\\LVL6_C#-TypeSystem.csproj": {}
+    "C:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\manticore\\manticore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\LVL6_C#-TypeSystem\\LVL6_C#-TypeSystem.csproj": {
+    "C:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\manticore\\manticore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\LVL6_C#-TypeSystem\\LVL6_C#-TypeSystem.csproj",
-        "projectName": "LVL6_C#-TypeSystem",
-        "projectPath": "c:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\LVL6_C#-TypeSystem\\LVL6_C#-TypeSystem.csproj",
+        "projectUniqueName": "C:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\manticore\\manticore.csproj",
+        "projectName": "manticore",
+        "projectPath": "C:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\manticore\\manticore.csproj",
         "packagesPath": "C:\\Users\\pmani\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\LVL6_C#-TypeSystem\\obj\\",
+        "outputPath": "C:\\Users\\pmani\\OneDrive\\Documents\\GIT\\csharp-academy\\manticore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\bin\Debug\net7.0\manticore.exe
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\bin\Debug\net7.0\manticore.deps.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\bin\Debug\net7.0\manticore.runtimeconfig.json
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\bin\Debug\net7.0\manticore.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\bin\Debug\net7.0\manticore.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.AssemblyInfoInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.AssemblyInfo.cs
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.csproj.CoreCompileInputs.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\refint\manticore.dll
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.pdb
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\manticore.genruntimeconfig.cache
+C:\Users\pmani\OneDrive\Documents\GIT\csharp-academy\manticore\obj\Debug\net7.0\ref\manticore.dll
