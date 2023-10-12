@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LVL6_C#-TypeSystem",
-    "\\LVL6_C#-TypeSystem\\obj"
+    "\\enumeration",
+    "\\Players_Guide",
+    "\\Players_Guide\\LVL18_Classes"
   ],
-  "SelectedNode": "\\csharp-academy.sln",
+  "SelectedNode": "\\Players_Guide\\LVL18_Classes",
   "PreviewInSolutionExplorer": false
 }

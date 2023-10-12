@@ -1,0 +1,14 @@
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.AssemblyInfoInputs.cache
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.AssemblyInfo.cs
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\bin\Debug\net7.0\Level18_Challenge.exe
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\bin\Debug\net7.0\Level18_Challenge.deps.json
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\bin\Debug\net7.0\Level18_Challenge.runtimeconfig.json
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\bin\Debug\net7.0\Level18_Challenge.dll
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\bin\Debug\net7.0\Level18_Challenge.pdb
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.dll
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\refint\Level18_Challenge.dll
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.pdb
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\Level18_Challenge.genruntimeconfig.cache
+C:\Users\Victer\Documents\GIT\csharp-academy\Players_Guide\LVL18_Classes\Level18_Challenge\obj\Debug\net7.0\ref\Level18_Challenge.dll
