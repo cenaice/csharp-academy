@@ -1,6 +1,6 @@
 ﻿// OOP Principle #2: Information Hiding- Only the object itself should directly access its data.
 
-class Rectangle
+public class Rectangle
 {
     // By giving it a private keyword, it gives private accessibility, only usable within the class itself.
     private float _width;
